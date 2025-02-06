@@ -1,0 +1,22 @@
+{
+  "welcome": "Welcome to our app!",
+  "newUser": "Don't have an account? Sign up",
+  "oldUser": "Already have an account? Sign in",
+  "login": "Login",
+  "inValidPass": "Error, please enter email and password",
+  "loggedIn": "Success, signed in successfully",
+  "signup": "Sign Up",
+  "email": "Email",
+  "password": "Password",
+  "invalidFeild": "Error, please fill all fields",
+  "invalidPass": "Error, passwords do not match",
+  "registered": "Success, account created successfully",
+  "confirmPass": "Confirm Password",
+  "batteryInfo": "Battery Information",
+  "batteryId": "Battery ID",
+  "chargeLevel": "Charge Level",
+  "temperature": "Temperature",
+  "status": "Status",
+  "available": "Available",
+  "inUse": "In Use"
+}
